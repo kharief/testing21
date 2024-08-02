@@ -1,0 +1,7 @@
+Flask
+flask-recaptcha
+mysql-connector-python
+chatterbot
+chatterbot_corpus
+spacy
+requests
